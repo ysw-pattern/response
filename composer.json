@@ -1,6 +1,7 @@
 {
   "name": "ysw-pattern/response",
   "description": "Pattern for response API",
+  "license": "MIT",
   "authors": [
     {
       "name": "Yuswa",
